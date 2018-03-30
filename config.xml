@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.2">
   <name>Cursos Cruz Roja</name>
   <description>
-Aplicación oficial de cursos Cruz Roja
+  Aplicación oficial de Cursos Cruz Roja
       </description>
   <author href="http://moodle.com" email="mobile@moodle.com">
         Iron Geek team
