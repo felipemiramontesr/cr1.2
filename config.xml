@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.ccr.ccrmobile" version="3.4.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.ccr.ccrmobile" version="1.2">
   <name>Cursos Cruz Roja</name>
-  <description>&#xD;
-  Aplicación oficial de Cursos Cruz Roja&#xD;
+  <description>
+  Aplicación oficial de Cursos Cruz Roja
       </description>
-  <author href="http://irongeek.com.mx" email="contacto@irongeek.com.mx">&#xD;
-        Iron Geek&#xD;
+  <author href="http://irongeek.com.mx" email="contacto@irongeek.com.mx">
+        Iron Geek
     </author>
   <content src="index.html"/>
   <access origin="*"/>
